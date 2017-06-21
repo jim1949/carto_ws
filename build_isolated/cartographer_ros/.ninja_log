@@ -1,0 +1,27 @@
+# ninja log v5
+1	2026	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/ros_log_sink.cc.o	aa310419fb17875d
+1	3190	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/map_writer.cc.o	fff4a18f955a8e9
+1	4663	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/time_conversion.cc.o	60d13c4a00b64472
+4663	5198	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/color.cc.o	4409e035ab87d714
+1	9285	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/node_options.cc.o	9ff5620589b346c1
+2	10081	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/assets_writer.cc.o	2385389bc90d3861
+1	10452	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/trajectory_options.cc.o	8e5ac6262a841ae2
+5198	12808	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/occupancy_grid.cc.o	31ab591f5ce4c501
+12808	12820	0	CMakeFiles/cartographer_ros_detect_changes	8551ee8bc3f7e27b
+10452	14449	0	gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	231dcb7707f54b3a
+1	14686	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/sensor_bridge.cc.o	508068a3ffb83db1
+2026	16370	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/urdf_reader.cc.o	3c29b1b7d004ee7b
+14686	18190	0	gmock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o	faa832e5040f8723
+12820	19177	0	gmock/CMakeFiles/gmock.dir/gtest/src/gtest-all.cc.o	d276387678815b2f
+14449	20332	0	gmock/CMakeFiles/gmock_main.dir/gtest/src/gtest-all.cc.o	5fc6fa4af16d275d
+9285	21128	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/msg_conversion.cc.o	ff49be74d10c432f
+10081	21622	0	CMakeFiles/cartographer_ros.dir/cartographer_ros/tf_bridge.cc.o	d06c7338901263b4
+0	12	0	gmock/libgmock.a	c3f644baea4032bf
+0	17	0	CMakeFiles/cartographer_ros_detect_changes	8551ee8bc3f7e27b
+1	639	0	gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	a67d09a5220c52
+639	651	0	gmock/libgmock_main.a	bda3c7195fce4c91
+1	4547	0	gmock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	3aad9df3ffbda78b
+4547	4576	0	gmock/gtest/libgtest.a	bc9cf97da33f84fa
+4576	4969	0	gmock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	a2124f9a0ca54aa
+4969	4976	0	gmock/gtest/libgtest_main.a	d25d4d6a28e2c97
+1	4	0	CMakeFiles/cartographer_ros_detect_changes	8551ee8bc3f7e27b

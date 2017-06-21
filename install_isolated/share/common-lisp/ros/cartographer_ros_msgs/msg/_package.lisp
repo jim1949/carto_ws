@@ -1,0 +1,15 @@
+(cl:defpackage cartographer_ros_msgs-msg
+  (:use )
+  (:export
+   "<TRAJECTORYOPTIONS>"
+   "TRAJECTORYOPTIONS"
+   "<SUBMAPENTRY>"
+   "SUBMAPENTRY"
+   "<SENSORTOPICS>"
+   "SENSORTOPICS"
+   "<TRAJECTORYSUBMAPLIST>"
+   "TRAJECTORYSUBMAPLIST"
+   "<SUBMAPLIST>"
+   "SUBMAPLIST"
+  ))
+
